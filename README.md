@@ -52,6 +52,9 @@ These insights demonstrate how sales performance varies across products, retaile
 * **Tableau** – dashboard creation and visualisation
 * **Data visualisation techniques** – KPI cards, bar charts, pie charts, treemaps, and time series analysis
 
+### Link To Dashboard
+https://public.tableau.com/views/Adidas_17736497489260/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 
 ### Summary
 
