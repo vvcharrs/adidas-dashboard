@@ -53,11 +53,6 @@ These insights demonstrate how sales performance varies across products, retaile
 * **Data visualisation techniques** – KPI cards, bar charts, pie charts, treemaps, and time series analysis
 
 
-### Dashboard Preview
-
-*(Insert screenshot of the dashboard here)*
-
-
 ### Summary
 
 This Tableau dashboard provides a comprehensive overview of Adidas sales performance by combining product, regional, retailer, and time-based analyses. The visualisations reveal that specific product categories, retail partners, and geographic regions drive a large portion of Adidas’ sales and profitability. Such insights can support data-driven decision-making for marketing strategies, product focus, and regional expansion.
